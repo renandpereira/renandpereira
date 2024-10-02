@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I’m Renan!<br><br>I’m a Computer Science student currently working as a Senior Data Analyst. My professional journey is constantly evolving, with a growing focus on becoming a Data Engineer. I’m committed to enhancing</p>
+<p align="left">I’m Renan!
+
+I’m a Computer Science student currently working as a Senior Data Analyst. My professional journey is constantly evolving, with a growing focus on becoming a Data Engineer.</p>
 
 ###
 
