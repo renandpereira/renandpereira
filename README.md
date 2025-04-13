@@ -18,7 +18,7 @@
 🤖 I work with: Predictive modeling, machine learning pipelines, and data-driven decision making.<br><br>
 📚 I'm currently learning: Advanced database architectures, distributed systems, and cloud-based data engineering tools.<br><br>
 🎯 Goals: To become a Data Engineer specialized in scalable, AI-powered solutions.<br><br>
-🎲 Fun fact: I love solving complex puzzles—whether they're mathematical, algorithmic, or just plain tricky bugs!
+🎲 Fun fact: I love solving complex puzzles—whether they're mathematical
 </p>
 
 ###
